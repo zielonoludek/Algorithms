@@ -1,0 +1,100 @@
+1; Nancy; Williams; Nancy; 507 - 20th Ave. E.Apt. 2A; Seattle; WA; 98122; Northwest; USA; Nancy's Gifts; Właściciel; 206-555-9857; 1998-01-01
+2; Janet; Warner; Janet; 722 Moss Bay Blvd.; Kirkland; WA; 98033; Northwest; USA; Books and More; Właściciel; 206-555-3412; 1997-07-08
+3; Andrew; Tennison; Andrew; 908 W. Capital Way; Tacoma; WA; 98401; Northwest; USA; Specialties and More; Właściciel; 206-555-9482; 1997-01-21
+4; Margaret; Smith; Margaret; 4110 Old Redmond Rd.; Redmond; WA; 98052; Northwest; USA; Balloons and More; Właściciel; 206-555-8122; 1997-09-08
+5; Steven; Peacock; Steven; 14 Garrett Hill; Chicago; IL; 60601; Midwest; USA; Grand Gifts; Właściciel; 716-555-2222; 1997-09-10
+6; Gerry; Leverling; Gerry; 123 W. Maple; Wichita; KS; 67211; Midwest; USA; Better to Give; Prezes; 316-356-4321; 1997-05-17
+7; Denise; Kenneth; Denise; 3950 Carpenter; Fairfield; OH; 45014; Midwest; USA; Surprises; Prezes; 513-234-6211; 1997-07-08
+8; Carol; Fuller; Carol; 3845 1st; Crystal Lake; IL; 60014; Midwest; USA; Congratulations; Prezes; 815-458-7621; 1997-05-09
+9; David; Franks; David; 3049 Turner; San Fransciso; CA; 60178; Southwest; USA; Decadence; Prezes; 708-303-8555; 1997-01-10
+10; Vivian; Davolio; Vivian; 3290 Jones; Allgood; AZ; 35013; Southwest; USA; Elegance; Prezes; 708-888-3698; 1997-04-02
+11; Cynthia; Danning; Cynthia; 1200 S. Market; Afton; MN; 55001; Midwest; USA; Danning Gifts; Prezes; 312-234-6853; 1997-11-28
+12; Peggy; Cramer; Peggy; 3059 Randall; Vaughn; NM; 88353; Southwest; USA; TeleBasket; Prezes; 708-882-1234; 1997-04-13
+13; Maggie; Buchanan; Maggie; 1234 N. Rock Road; Lincoln; NE; 68516; Midwest; USA; Baskets and More; Prezes; 316-606-1234; 1997-12-25
+14; Carol; Crestway; Carol; 3945 Crestway; Clearwater; FL; 34570; Southeast; USA; Carol's Treasures; Prezes; 708-639-5482; 1997-02-19
+15; Bob; Dillon; Bob; 1245 Timberlane; Logan; WV; 25600; Southeast; USA; Hard To Find; Prezes; 513-671-6331; 1997-12-07
+16; Rose; Garver; Rose; 457 Carver; Logan; WV; 25600; Southeast; USA; Wild Rose Gifts; Prezes; 513-567-8855; 1997-08-19
+17; Marshall; Jeffers; Marshall; 7543 N. Main; Lincoln; NE; 68516; Midwest; USA; Treasure Market; Prezes; 316-567-9584; 1997-11-04
+18; Jason; Jones; Jason; 4067 Lake; Fairfield; OH; 45014; Midwest; USA; The Gift Shop; Prezes; 513-234-9500; 1997-01-03
+19; Truly; Oliver; Truly; 3845 14th; Crystal Lake; IL; 60014; Midwest; USA; Oliver Balloons; Prezes; 815-458-9874; 1997-11-01
+20; Peggy; Snow; Peggy; 5409 Market; Springfield; CO; 81073; Southwest; USA; Gifts By Peggy; Prezes; 708-303-6741; 1997-04-11
+21; Veronica; Strawberry; Veronica; 4963 S. 1st; Allgood; AZ; 35013; Southwest; USA; Excellence; Prezes; 708-888-6325; 1997-02-14
+22; Tina; Swift; Tina; 4579 13th Street; Afton; MN; 55001; Midwest; USA; Tima's Market; Prezes; 312-234-9654; 1997-01-03
+23; Martha; Todd; Martha; 2193 Robin; Vaughn; NM; 88353; Southwest; USA; Moonlight Walk; Prezes; 708-882-1234; 1997-12-09
+24; Pat; Struthers; Pat; 342 N. 2nd Street; Lincoln; NE; 68516; Midwest; USA; Struthers; Prezes; 316-685-9234; 1997-02-15
+25; Ellen; Miles; Ellen; 658 River Road; Clearwater; FL; 34570; Southeast; USA; Gifts By Ellen; Prezes; 708-639-8925; 1997-03-09
+26; Tamera; Matthews; Tamera; 5895 Market; Logan; WV; 25600; Southeast; USA; Good Giving; Prezes; 513-567-0032; 1997-05-05
+27; Cal; Kendall; Cal; 9000 W. Marble; Logan; WV; 25600; Southeast; USA; Kendall Gifts; Prezes; 513-567-9236; 1998-06-04
+28; Gerald; James; Gerald; 654 W. Jones; Lincoln; NE; 68516; Midwest; USA; The Grapevine Gifts; Prezes; 316-456 -9823; 1998-06-04
+29; Amy; James; Amy; 5600 N. Main; Fairfield; OH; 45014; Midwest; USA; Tempting Fate; Prezes; 513-234-9555; 1997-03-05
+30; Cindy; Crane; Cindy; 2345 Charles; Crystal Lake; IL; 60014; Midwest; USA; Sensations; Prezes; 815-458-9955; 1997-04-24
+31; Michael; Clarke; Michael; 3950 Elm; Springfield; CO; 81073; Southwest; USA; Treasures Galore; Prezes; 708-303-6262; 1998-05-05
+32; Betty; Cainfield; Betty; 12200 N. Miller; Allgood; AZ; 35013; Southwest; USA; Baskets Away; Prezes; 708-888-7878; 1998-02-08
+33; Paul; Beardsley; Paul; 1294 12th Street; Afton; MN; 55001; Midwest; USA; Gift Escape; Prezes; 312-234-3333; 1997-08-07
+34; Briana; Willams; Briana; 3059 White; Vaughn; NM; 88353; Southwest; USA; Williams Treasures; Prezes; 708-882-4555; 1998-02-09
+35; Grant; Todd; Grant; 4536 S. Erie; Lincoln; NE; 68516; Midwest; USA; Larkspur Garden; Prezes; 316-564-1235; 1997-03-28
+36; Susan; Stranton; Susan; 4572 S. Pennington; Clearwater; FL; 34570; Southeast; USA; Too Sweet!; Prezes; 708-639-6214; 1998-01-05
+37; Ryan; Pierce; Ryan; 7383 Hide; Logan; WV; 25600; Southeast; USA; Unique Gifts; Prezes; 513-671-0002; 1998-04-02
+38; Mary; Peterson; Mary; 8932 Winningham; Logan; WV; 25600; Southeast; USA; Iris Lane Gifts; Prezes; 513-576-9333; 1998-02-25
+39; Adam; Minnington; Adam; 823 N. Parkway; Alexandria; VA; 22303; Southeast; USA; Adam's Gifts; Prezes; 703-329-4578; 1998-10-31
+40; Jay; McLeod; Jay; 3954 Market; Rowlett; TX; 75088; South Central; USA; Baskets By Jay; Prezes; 214-456-6565; 1998-04-07
+41; Lissa; Lancaster; Lissa; 8124 N. Adams; Detroit; MI; 54892; Midwest; USA; Super Gifts; Prezes; 618-698-8855; 1997-05-16
+42; Steven; Grant; Steven; 3400 Henry; Springfield; CO; 81073; Southwest; USA; Splurge; Prezes; 708-303-6161; 1998-05-16
+43; Penny; Davis; Penny; 4967 Abigail; Allgood; AZ; 35013; Southwest; USA; Perfect Gifts; Prezes; 708-888-1234; 1998-06-07
+44; Jim; Cramer; Jim; 7313 S. Lambert; Afton; MN; 55001; Midwest; USA; Manchester Gifts; Prezes; 312-234-6215; 1998-05-08
+45; Grace; Carrington; Grace; 4069 Market; Vaughn; NM; 88353; Southwest; USA; Terrific Gifts; Prezes; 708-882-1234; 1998-07-15
+46; Steven; Bodewell; Steven; 5644 S. River Road; Lincoln; NE; 68516; Midwest; USA; Can't Wait; Prezes; 316-345-9876; 1998-11-17
+47; Trent; Blackwell; Trent; 345 N. Market; Clearwater; FL; 34570; Southeast; USA; Trent's Hotel; Prezes; 708-639-9874; 1998-11-11
+48; Millie; Carol; Millie; 6785 Keith; Logan; WV; 25600; Southeast; USA; Sycamore Retreat; Prezes; 513-671-2000; 1998-12-02
+49; Leah; Charleston; Leah; 2657 Sexton; Logan; WV; 25600; Southeast; USA; Leah's; Prezes; 513-576-0020; 1998-03-28
+50; Katherine; Childers; Katherine; 4536 W. River Road; Lincoln; NE; 68516; Midwest; USA; River Walk; Prezes; 316-234-1235; 1998-08-05
+51; Maggie; Corey; Maggie; 4398 Cobbler; Fairfield; OH; 45014; Midwest; USA; Marvelous Gifts; Prezes; 513-234-1234; 1997-04-07
+52; Teresa; Jones; Teresa; 3959 Woodstock; Crystal Lake; IL; 60014; Midwest; USA; Avalon; Prezes; 815-458-7852; 1998-05-31
+53; Mark; Kent; Mark; 4856 Main; Springfield; CO; 81073; Southwest; USA; Friends and More; Prezes; 708-303-6464; 1997-08-09
+54; Nancy; Nice; Nancy; 6743 Tanner; Allgood; AZ; 35013; Southwest; USA; Gift Fair; Prezes; 708-888-8855; 1997-04-07
+55; Terrance; Palmer; Terrance; 4589 S. Terrace; Afton; MN; 55001; Midwest; USA; Sharing Time; Prezes; 312-2346852; 1997-06-01
+56; Michelle; Phillips; Michelle; 2345 Sprinport; Vaughn; NM; 88353; Southwest; USA; Michelle's; Prezes; 708-882-1234; 1998-07-07
+57; Paul; Pickles; Paul; 6547 N. Pawnee; Lincoln; NE; 68516; Midwest; USA; Pickles; Prezes; 316-654-1234; 1998-01-09
+58; Tim; Pullman; Tim; 1274 S. Andrews; Clearwater; FL; 34570; Southeast; USA; Fine Gifts; Prezes; 708-639-7531; 1998-04-16
+59; Sam; Smith; Sam; 1595 Ventor; Logan; WV; 25600; Southeast; USA; Best Gifts and Foods; Prezes; 513-671-1234; 1998-06-02
+60; Mary; Talbert; Mary; 4583 Carolina; Logan; WV; 25600; Southeast; USA; The Back Room; Prezes; 513-567-9642; 1998-09-30
+61; Mary; Teller; Mary; 923 Simon; Alexandria; VA; 22303; Southeast; USA; Walker's Rest; Prezes; 703-329-8945; 1997-12-15
+62; Todd; Tracks; Todd; 593 Main; Rowlett; TX; 75088; South Central; USA; Breakpoint; Prezes; 214-456-2222; 1998-02-05
+63; Kate; Travers; Kate; 385 Brandon; Detroit; MI; 54892; Midwest; USA; Truly Yours; Prezes; 618-698-6547; 1998-05-08
+64; Angela; Turner; Angela; 5093 45th Street; Springfield; CO; 81073; Southwest; USA; Angela's Getaway; Prezes; 708-303-6333; 1998-08-15
+65; Nan; Walker; Nan; 2949 Juniper; Allgood; AZ; 35013; Southwest; USA; Sweet Retreat; Prezes; 708-888-2258; 1998-05-04
+66; Donna; Waters; Donna; 8632 Liberty; Afton; MN; 55001; Midwest; USA; Inspire; Prezes; 312-234-6665; 1998-09-08
+67; Ian; Weathers; Ian; 3945 Mall; Vaughn; NM; 88353; Southwest; USA; Baskets and Balloons; Prezes; 708-882-6333; 1998-02-02
+68; Elizabeth; Trainer; Elizabeth; 4365 E. Douglas; Wichita; KS; 67208; Midwest; USA; Old Towm Square; Prezes; 316-606-1238; 1997-03-15
+69; Taylor; Todd; Taylor; 3910 Griffen; Clearwater; FL; 34570; Southeast; USA; Taylor's; Prezes; 708-639-8521; 1998-05-07
+70; Jack; Thrush; Jack; 3579 South Street; Cinncinati; OH; 45246; Midwest; USA; Rainy Day Gifts; Prezes; 513-671-5841; 1998-04-07
+71; Taylor; Springs; Taylor; 579  Bell; Logan; WV; 25600; Southeast; USA; Taylor's; Prezes; 513-567-6522; 1998-06-18
+72; Clarrke; Ramsey; Clarrke; 8257 N. Shawnee; Wichita; KS; 67211; Midwest; USA; Clarrke's; Prezes; 316-356-9127; 1998-07-09
+73; Terri; Porter; Terri; 4000 Adams; Fairfield; OH; 45014; Midwest; USA; Gifts and Extras; Prezes; 513-234-8844; 1998-05-31
+74; Mabel; Pierceson; Mabel; 4231 N. Cameron; Crystal Lake; IL; 60014; Midwest; USA; Maple Tree; Prezes; 815-458-1234; 1998-11-05
+75; Mary; Moore; Mary; 3059 Handel; Springfield; CO; 81073; Southwest; USA; Mary's Gifts; Prezes; 708-303-6554; 1998-04-16
+76; Mike; Michaels; Mike; 6934 Denning; Allgood; AZ; 35013; Southwest; USA; Mike's; Prezes; 708-8882536; 1998-06-16
+77; Patrick; Longsworth; Patrick; 12345 N. Avery; Afton; MN; 55001; Midwest; USA; Best Gifts and Foods; Prezes; 312-234-6741; 1998-12-20
+78; Jerri; Key; Jerri; 3124 Merrill; Vaughn; NM; 88353; Southwest; USA; Gift Express; Prezes; 708-882-8888; 1998-03-15
+79; Phil; Keller; Phil; 6289 N. Market; Lincoln; NE; 68516; Midwest; USA; Keller's; Prezes; 316-606-4239; 1998-09-05
+80; Merry; Jameson; Merry; 3446 Perry; Clearwater; FL; 34570; Southeast; USA; Merry Times; Prezes; 708-639-4596; 1998-10-15
+81; Charles; Farmer; Charles; 2476 Marshall; Logan; WV; 25600; Southeast; USA; The Century Club; Prezes; 513-671-6544; 1998-09-25
+82; Rachel; Downing; Rachel; 4793 Tenor Lane; Logan; WV; 25600; Southeast; USA; The Gift Stop; Prezes; 513-567-6633; 1998-05-08
+83; Marilyn; Daniels; Marilyn; 8790 W. 3rd Street; Alexandria; VA; 22303; Southeast; USA; The Extravagant Gift; Prezes; 73-329-7496p; 1998-04-06
+84; Todd; Carlson; Todd; 6527 E. Russel; Rowlett; TX; 75088; South Central; USA; Paradise Gifts; Prezes; 214-456-7888; 1998-03-07
+85; Tim; Brown; Tim; 5939 Lassiter; Detroit; MI; 54892; Midwest; USA; Porter's; Prezes; 618-698-7596; 1998-11-02
+86; Timothy; Andrews; Timothy; 3546 N. Main; Afton; MN; 55001; Midwest; USA; Excellent Choice; Prezes; 312-234-5481; 1998-11-17
+87; Terri; Anthony; Terri; 3056 Teller; Vaughn; NM; 88353; Southwest; USA; Gifts Etc; Prezes; 708-882-6588; 1998-10-06
+88; Rob; Brown; Rob; 7333 Marshall; Clearwater; FL; 34570; Southeast; USA; Rob's Place; Prezes; 708-639-4562; 1998-09-05
+89; Melody; Brown; Melody; 1479 E. Mission; Cinncinati; OH; 45246; Midwest; USA; Melody's; Prezes; 513-671-6622; 1998-02-05
+90; Donna; Crestway; Donna; 3959 Smith; Fairfield; OH; 45014; Midwest; USA; Dream Gifts and Foods; Prezes; 513-234-7544; 1998-01-12
+91; Steve; Darby; Steve; 6577 S. Chelsea; Crystal Lake; IL; 60014; Midwest; USA; Steve's; Prezes; 815-458-3322; 1998-02-08
+92; Matt; Dreyer; Matt; 4050 Miller; Springfield; CO; 81073; Southwest; USA; Matt's; Prezes; 708-303-6722; 1998-08-16
+93; Chris; Fisher; Chris; 3468 Miller; Vaughn; NM; 88353; Southwest; USA; Chris' Place; Prezes; 708-882-9999; 1998-06-21
+94; Ross; Fisher; Ross; 7289 N. Skyline; Wichita; KS; 67208; Midwest; USA; Ross's; Prezes; 316-606-3583; 1998-02-05
+95; Rich; Grisham; Rich; 3457 River Plaza; Cinncinati; OH; 45246; Midwest; USA; Rich's; Prezes; 513-671-6544; 1997-12-04
+96; Chuck; Houser; Chuck; 235 S. Main; Cinncinati; OH; 45246; Midwest; USA; Chuck's Place; Prezes; 513-567-7744; 1998-03-05
+97; Elizabeth; Kendall; Elizabeth; 4090 Breakstone; Detroit; MI; 54892; Midwest; USA; Darby's; Prezes; 618-698-5444; 1998-05-13
+98; Max; Marker; Max; 4960 Lake; Springfield; CO; 81073; Southwest; USA; Delights; Prezes; 708-303-6702; 1998-04-05
+99; Tanner; McNichols; Tanner; 6400 Travis; Afton; MN; 55001; Midwest; USA; No Regrets; Prezes; 312-234-7521; 1998-05-16
+100; Cassy; Miller; Cassy; 3293 Edgemoor; Vaughn; NM; 88353; Southwest; USA; Basket Delight; Prezes; 708-882-4444; 1998-02-25
